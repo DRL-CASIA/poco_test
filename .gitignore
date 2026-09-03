@@ -1,0 +1,6 @@
+exp/
+robomimic/
+D4RL/
+mujoco-py/
+*.pyc
+__pycache__/
